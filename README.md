@@ -1,3 +1,6 @@
+#Juacompe video
+https://www.facebook.com/livetubethailand/videos/vb.1427510127516428/2099500066984094/?type=2&theater
+
 # cropchat
 
 > A simple Vue.js project  created by following <https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402>
